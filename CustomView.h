@@ -3,7 +3,7 @@
 //
 //  Code generated using QuartzCode 1.38.4 on 11/11/2015.
 //  www.quartzcodeapp.com
-//
+// My Committed
 
 #import <UIKit/UIKit.h>
 
